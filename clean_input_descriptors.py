@@ -7,7 +7,7 @@ import math
 #Carregado do arquivo da base de dados Binding Data base(https://www.bindingdb.org/bind/index.jsp)
 #para acetylcholinesterase
 
-moleculas=pd.read_excel("ACHE_BD.xlsx")
+moleculas=pd.read_csv("ACHE_BD.csv")
 moleculas
 
 
