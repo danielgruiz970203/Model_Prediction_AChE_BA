@@ -14,9 +14,4 @@ to use PaDEL descriptors.
 <<<<<<< HEAD
 I was created a gap of 2.7  units of pIC50 such as separation of active and inactive molecules starting with >7.2 (Active) and  <4.5 (Inactive).
 
-
 Thank you for reading I'll wait for your recomendations.
-=======
-I was created a gap of 2.7  units of pIC50 such as separation of active and inactive molecules starting with >7.2 
-(Active) and  <4.5 (Inactive).
->>>>>>> e7488dfe447226aafbd5e807e1b3f7cad2cb5741
