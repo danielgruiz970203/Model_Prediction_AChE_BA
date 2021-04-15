@@ -1,0 +1,1 @@
+Alvascience, alvaDesc (software for molecular descriptors calculation) version 2.0.2, 2020, https://www.alvascience.com
