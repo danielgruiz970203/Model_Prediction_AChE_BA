@@ -2,3 +2,5 @@ venv/
 *.sdf
 *.tsv
 *.csv
+*.txt
+*.mvdresults
