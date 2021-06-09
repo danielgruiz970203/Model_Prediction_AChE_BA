@@ -1,4 +1,9 @@
 venv/
+Project_AChE_BindingDataBase/
 *.sdf
 *.tsv
 *.csv
+*.txt
+*.mvdresults
+.tgz
+*.smiles
