@@ -6,3 +6,4 @@ venv/
 *.mvdresults
 .tgz
 *.smiles
+*.mvdml
