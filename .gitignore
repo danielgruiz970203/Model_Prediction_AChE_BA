@@ -4,3 +4,7 @@ venv/
 *.csv
 *.txt
 *.mvdresults
+.tgz
+*.smiles
+*.mvdml
+*.log
